@@ -17,6 +17,7 @@
 - What are Box properties in CSS
 
 ## More Info
+![hbnb_step1](https://user-images.githubusercontent.com/85451781/142458861-e91597e3-67fb-440f-a177-17a030792409.png)
 
 ## Tasks
 
@@ -46,6 +47,8 @@ Requirements:
 - You are not allowed to import any files
 - You are not allowed to use the style tag in the head tag
 - Use inline styling for all your tags
+
+![939d6b9448e63776610d05d2226aa8985209ee4d](https://user-images.githubusercontent.com/85451781/142459081-18eb52c6-0686-4168-9321-fbd790abc215.png)
 
 **Repo:**
 
@@ -131,6 +134,8 @@ Requirements:
   - styles/3-header.css: for the header style
   - styles/3-footer.css: for the footer style
 
+![101096090ff2b87a86083d61789d597774400d5d](https://user-images.githubusercontent.com/85451781/142459489-b4d1b2a5-7ee2-4acd-bc76-131787f90946.png)
+
 **Repo:**
 
 - GitHub repository: AirBnB_clone
@@ -173,8 +178,7 @@ Layout: (based on 3-index.html)
 
 Requirements:
 
-\*You must use: header, footer, section, button tags
-
+- You must use: header, footer, section, button tags
 - No inline style
 - You are not allowed to use the img tag
 - You are not allowed to use the style tag in the head tag
@@ -185,6 +189,8 @@ Requirements:
   - styles/3-footer.css: for the footer style
   - styles/4-filters.css: for the filters style
 - 4-index.html won’t be W3C valid, don’t worry, it’s temporary
+
+![0fc91d5d4d62955575dc65a93d9823cf4dc72133](https://user-images.githubusercontent.com/85451781/142459704-a73d4980-2d68-4819-b88d-512481a72f3e.png)
 
 **Repo:**
 
@@ -228,6 +234,8 @@ Requirements:
   - styles/3-footer.css: for the footer style
   - styles/5-filters.css: for the filters style
 
+![63600f1cf5fad5711e6ebba03421fe980d498ec5](https://user-images.githubusercontent.com/85451781/142460141-b3166e1a-12e8-499d-9059-f2ac531e1ac2.png)
+
 **Repo:**
 
 - GitHub repository: AirBnB_clone
@@ -266,6 +274,9 @@ Requirements:
         * styles/3-header.css: for the header style
         * styles/3-footer.css: for the footer style
         * styles/6-filters.css: for the filters style
+
+![2fc49432137a0f660dedf3fd4b3d86449a72bc53](https://user-images.githubusercontent.com/85451781/142460297-942b4ba3-b18c-4dc8-a59e-bcdb2a808ab6.png)
+![5aa1d0291e579abd8fc9876af9b9d089147268e2](https://user-images.githubusercontent.com/85451781/142460392-6129baa1-0802-464b-83a6-3171928225b7.png)
 
 **Repo:**
 
@@ -311,6 +322,8 @@ Requirements:
   - styles/3-footer.css: for footer style
   - styles/6-filters.css: for the filters style
   - styles/7-places.css: for the places style
+
+![4655b5086fc9b7832927f0a2ac6f04dc0b44775b](https://user-images.githubusercontent.com/85451781/142460489-84bfe677-0cce-4201-98c2-6cb810a81f5f.png)
 
 **Repo:**
 
@@ -382,6 +395,8 @@ Requirements:
   - styles/3-footer.css: for the footer style
   - styles/6-filters.css: for the filters style
   - styles/8-places.css: for the places style
+
+![f47a405fccad371100ff9665dae9b3a84a471e62](https://user-images.githubusercontent.com/85451781/142460601-898ae17e-9f2d-418b-b2ef-141b8ca07fa4.png)
 
 **Repo:**
 
